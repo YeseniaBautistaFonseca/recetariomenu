@@ -1,0 +1,23 @@
+body 
+{
+background-color: aquamarine;
+
+}
+
+
+footer {
+clear: both;
+display: block;
+background-color: #F47D31;
+color:#FFFFFF;
+text-align:center;
+padding: 25px;
+}
+footer h2 {
+font-size: 20px;
+color: white;
+}
+
+h2 {
+color:#F0B67F;
+}
